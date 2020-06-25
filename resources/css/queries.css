@@ -1,0 +1,32 @@
+/*big tablets to 1200px (width less that 1140px{our row size})*/
+
+@media only and screen and (max-width: 1200px) {
+    .hero-text-box {    
+        width: 100%;
+        padding: 0 2%;
+    }
+    
+    .row {
+        padding: 0 2%;
+    }
+
+
+/*small tablet and potrait mode: 768px to 1023px*/
+
+@media only and screen and (max-width: 1023px) {
+    
+}
+
+
+/*small phone and small tablet: 481 px to 767*/
+
+@media only and screen and (max-width: 767px) {
+    
+}
+
+
+/*small phones from 0 to 480 px*/
+
+@media only and screen and (max-width: 480px) {
+    
+}
